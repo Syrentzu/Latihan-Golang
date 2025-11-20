@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Tegar Ramdhani
+2. Email: tramdhani63@gmail.com
+3. Sistem Operasi yang digunakan: windows
+4. Akun Gitlab/Github: Syrentzu
+5. Akun Telegram: Tegar Ramdhani
