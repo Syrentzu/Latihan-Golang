@@ -42,22 +42,22 @@ func main() {
 	// fmt.Println(hasil)
 
 	//soal 4
-	// var angkaPertama = "8"
-	// var angkaKedua = "5"
-	// var angkaKetiga = "6"
-	// var angkaKeempat = "7"
+	// var angkaPertama string = "8"
+	// var angkaKedua string = "5"
+	// var angkaKetiga string = "6"
+	// var angkaKeempat string = "7"
 	// var pertama, _ = strconv.Atoi(angkaPertama)
 	// var kedua, _ = strconv.Atoi(angkaKedua)
 	// var ketiga, _ = strconv.Atoi(angkaKetiga)
 	// var keempat, _ = strconv.Atoi(angkaKeempat)
-	// var hasil = pertama + kedua + ketiga + keempat
+	// var hasil int8 = pertama + kedua + ketiga + keempat
 	// fmt.Println(hasil)
 
 	//soal 5
 	kalimat := "halo halo bandung"
 	angka := 2021
-	var ganti = strings.Replace(kalimat, "halo", "Hi", -1)
-	var konver = strconv.Itoa(angka)
-	var hasil = `"` + ganti + `"` + " - " + konver
+	var ganti string = strings.Replace(kalimat, "halo", "Hi", -1)
+	var konver string = strconv.Itoa(angka)
+	var hasil string = `"` + ganti + `"` + " - " + konver
 	fmt.Println(hasil)
 }
